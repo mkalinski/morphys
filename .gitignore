@@ -1,0 +1,9 @@
+# Compiled files
+*.pyc
+*.pyo
+__pycache__
+
+# Distutils artifacts
+build/
+dist/
+*.egg-info
